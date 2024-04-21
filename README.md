@@ -1,1 +1,1 @@
-# basic-calcullator-design-by-JavaScript
+# basic-calcullator-design-by-HTML-CSS-JavaScript
